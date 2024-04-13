@@ -28,3 +28,5 @@ jobs:
           account_type: org
           # 需要同步的仓库里面的项目
           static_list: "ronna-screen-doc"
+          force_update: true
+          debug: true
